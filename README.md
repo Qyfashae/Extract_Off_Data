@@ -1,2 +1,2 @@
 # Extract_Off_Data
-Extract Data from offline file. Ex: Emails, Links etc.
+Extract Data from offline file. Ex: Emails, Phone Numbers, Links etc.
