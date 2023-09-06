@@ -1,3 +1,5 @@
+#Coded by: QyFashae
+
 import re
 
 print("Extract phone numbers from a txt file with the help of 'Regex' for phone numbers and delimiters.")
