@@ -1,3 +1,5 @@
+#Coded by: QyFashae
+
 from bs4 import BeautifulSoup
 
 print("This script locate links in html files and extract them to a new file")
